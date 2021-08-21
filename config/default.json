@@ -1,0 +1,6 @@
+{
+  "jwtPrivateKey": "unsecureKey",
+  "db": "mongodb+srv://iyfrohini:wURk1WKQgvZ3lye1@iyfrohini-offerings.7zr42.mongodb.net/iyfrohini",
+  "port": "3900",
+  "requiresAuth": false
+}

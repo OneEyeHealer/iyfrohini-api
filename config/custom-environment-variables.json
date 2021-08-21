@@ -1,0 +1,4 @@
+{
+  "jwtPrivateKey": "ifyrohini_jwtPrivateKey",
+  "db": "mongodb+srv://iyfrohini:<password>@iyfrohini-offerings.7zr42.mongodb.net/iyfrohini"
+}
